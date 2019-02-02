@@ -1,37 +1,25 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Front-End Software Engineer',
+  siteTitle: 'Timothy M. Felice | Software Engineer',
   siteDescription:
-    'Front end software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Software engineer based in Los Angeles, CA specializing in developing high-quality games and applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Timothy M. Felice, Timothy Felice, Tim Felice, Timothy, Tim, Felice, TimFelice, TimothyMFelice, software engineer, game developer, vr developer, virtual reality developer, full sail university',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
 
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  //googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
+  name: 'Timothy M. Felice',
+  location: 'Los Angeles, CA',
+  email: 'TimothyMFelice@gmail.com',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7/',
+      url: 'https://github.com/TimothyMFelice/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://www.linkedin.com/in/timothy-felice/',
     },
   ],
 
@@ -54,8 +42,8 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@bchiang7',
-  googleAnalyticsID: 'UA-45666519-2',
+  twitterHandle: '@TimmyFelice',
+  //googleAnalyticsID: 'UA-45666519-2',
 
   headerHeight: 100,
 

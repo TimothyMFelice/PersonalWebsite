@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+title: 'Hello, my name is'
+name: 'Timothy M. Felice'
+subtitle: 'Turning Ideas To Reality.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in developing (and occasionally designing) exceptional, high-quality websites and applications. Currently working at [Upstatement](https://www.upstatement.com/) as an Engineer.
+I'm a software engineer based in Los Angeles, CA specializing in developing high-quality games and applications. Currently working at [Schuco's VCL](https://www.schueco.com/web2/vcl_en) as The Lead Virtual Reality Programmer.

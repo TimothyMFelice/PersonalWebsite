@@ -2,17 +2,17 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript
-  - TypeScript
-  - HTML & CSS
-  - React
-  - Vue
-  - Ember
-  - Node.js
+  - Virtual Reality Development
+  - C++ / C#
+  - Unreal Engine / Unity 3D
+  - DirectX / OpenGL
+  - Java
+  - MySQL
+  - Python
 ---
 
-I'm a front end software engineer who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces while being clean and efficient behind the scenes.
+I have over 4 years of experience working in the computer science industry. Currently, I work as the Lead Programmer for Schüco's Virtual World, developing a virtual reality experience of the Schüco products, while also developing an updating launcher, creating and maintaining product license database, and programmed an IFC model to virtual reality application.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I get to work on a variety of interesting projects and improve my web development skillset on a daily basis.
+Previously, I was a waiter at Gaetano's Italian Restaurant, where I waited for various tables including party's of +20 individuals, offering and pouring beverages and pleasant Italian cuisine. I additionally worked as a lifeguard along the jersey shore, which showed me great lessons and responsibilities.
 
-Here's a few things I'm experienced with:
+Competencies:

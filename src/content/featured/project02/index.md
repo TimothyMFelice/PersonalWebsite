@@ -1,15 +1,13 @@
 ---
 date: '2018-11-01'
-title: 'Halcyon Theme'
+title: 'Act of Arms: The Dark Ages'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'http://gameproject.fullsail.com/gpgames/index.php/2017/06/act-of-arms-the-dark-ages/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - C++
+  - Direct X
+  - FMOD
+  - Custom Physics
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Act of Arms: The Dark Ages is a real-time strategy game, set in the Medieval Ages. The game is made to have a cartoony and fun feel to it, pitting the humans against the orcs.

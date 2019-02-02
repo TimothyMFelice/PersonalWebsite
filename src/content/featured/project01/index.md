@@ -1,14 +1,13 @@
 ---
-date: '2018-12-18'
-title: 'Spotify Profile'
+date: '2019-01-01'
+title: 'Schuco Virtual World'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://www.schueco.com/web2/vcl_en/02_section_vr'
 tech:
-  - React
-  - Express
-  - Reach Router
-  - Styled Components
+  - VR Development
+  - C++
+  - Unreal Engine
+  - MySQL
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A Virtual Reality experience of the Schüco products.
