@@ -4,7 +4,7 @@ module.exports = {
     'Software engineer based in Los Angeles, CA specializing in developing high-quality games and applications.',
   siteKeywords:
     'Timothy M. Felice, Timothy Felice, Tim Felice, Timothy, Tim, Felice, TimFelice, TimothyMFelice, software engineer, game developer, vr developer, virtual reality developer, full sail university',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://tfelice.info',
   siteLanguage: 'en_US',
 
   //googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
